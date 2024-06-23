@@ -8,4 +8,6 @@ fun main() {
     println(myStu1.name)
     var myEmployee: Employee = Employee("ela", 22, "new york")
     println(myEmployee.getName())
+    var myTeacher: Teacher = Teacher("karthik",45,"madurai")
+    println(myTeacher.address)
 }
