@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Ela-1</string>
-    <string name="hello">hello</string>
+    <string name="hint_entername">enter your name</string>
+    <string name="hint_enterpin">enter pin</string>
+    <string name="hint_enteremailaddress">enter email address</string>
+    <string name="login_label">login</string>
 </resources>
